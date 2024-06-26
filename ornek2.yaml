@@ -1,0 +1,28 @@
+# işareti ile yorum satırı oluşturabiliriz:
+
+isim: A
+kurulus: 2005
+isletmeler:
+  - ankara
+  - afyon
+  - izmir
+  #veya isletmeler:[ankara, afyon, izmir]
+faaliyetler:
+  - makina:
+    - cnc: yerli
+      fiyat: 324234
+      agirlik: 23
+      stok: true
+    - torna: ithal
+      fiyat: 34234
+      agirlik: 14
+      stok: false
+  - elektrik:
+    - pano:
+      fiyat: 123
+      agirlik: 12
+      stok: true
+    - otomasyon:
+      fiyat: 123
+      agirlik: 12
+      stok: false

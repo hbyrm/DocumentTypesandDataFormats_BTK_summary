@@ -1,0 +1,39 @@
+{
+    "arac":"reno",
+    "otomobiller":[
+        {
+            "marka":"A",
+            "model":2019,
+            "renk":["siyah","beyaz","kırmızı"],
+            "motor":{
+                "guc":76,
+                "yakit":"Benzin",
+                "tuketim":6.5
+            },
+            "garanti":true
+
+        },
+        {
+            "marka":"B",
+            "model":2020,
+            "renk":["mavi","beyaz","bordo"],
+            "motor":{
+                "guc":100,
+                "yakit":"motorin",
+                "tuketim":7.3
+            },
+            "garanti":true
+        },
+        {
+            "marka":"C",
+            "model":2017,
+            "renk":["Beyaz","Yeşil","mavi"],
+            "motor":{
+                "guc":85,
+                "yakit":"Benzin",
+                "tuketim":7
+            },
+            "garanti":false
+        }
+    ]
+}

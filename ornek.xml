@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <ogrenci gorev="okul baskani">
+        <ad>ahmet</ad>
+        <numara>55</numara>
+        <ortalama>83.22</ortalama>
+        <dogum>2005-06-17</dogum>
+    </ogrenci>
+    <ogrenci>
+        <ad>ayşe</ad>
+        <numara>87</numara>
+        <ortalama>90.36</ortalama>
+        <dogum>2005-03-22</dogum>
+        <birincilik>true</birincilik>
+    </ogrenci>
+    <ogrenci>
+        <ad>Can</ad>
+        <numara>64</numara>
+        <ortalama>78.02</ortalama>
+        <dogum>2006-05-19</dogum>
+        <hastaliklar>
+            <hastalık>astım</hastalık>
+            <hastalık>diyabet</hastalık>
+        </hastaliklar>
+    </ogrenci>
+</root>
